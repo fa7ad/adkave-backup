@@ -3,7 +3,7 @@ Backup of some adkave sites. Should run as soon as uploaded on a server.
 
 ---
 
-## Copyright (C) 2014Fahad Hossain
+## Copyright (c) 2014 Fahad Hossain
 
 > This program is free software: you can redistribute it and/or modify
 > it under the terms of the GNU General Public License as published by
